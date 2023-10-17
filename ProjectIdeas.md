@@ -24,3 +24,7 @@ google adwords
 crime stats
 job board
 
+
+> How does all this information come together?
+
+![](projectInfo.png)
