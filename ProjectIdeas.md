@@ -7,10 +7,12 @@ XAMPP
  - mySql
 - phpMyAdmin
 
-Kotlin ( bug tracker)
+Kotlin ( bug tracker) 
+> do as a general project (basic functionality) 
 - put bugs into list/array
-- upgrade bug tracker to use a database
-- android studio apps
+- upgrade bug tracker to use a database (add in database connection)
+ - use XAMPP to test locally (database connection testing)   
+- Spring Mvc Framework (maybe REST)
 
 Swift
 - iphone apps
